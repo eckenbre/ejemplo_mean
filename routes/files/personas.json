@@ -1,0 +1,16 @@
+[
+  {
+    "firstname": "ajitesh",
+    "lastname": "kumar",
+    "address": "211/20-B,mgstreet",
+    "city": "hyderabad",
+    "phone": "999-888-6666"
+  },
+  {
+    "firstname": "nidhi",
+    "lastname": "rai",
+    "address": "201,mgstreet",
+    "city": "hyderabad",
+    "phone": "999-876-5432"
+  }
+]
