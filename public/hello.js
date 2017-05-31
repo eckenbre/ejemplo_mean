@@ -11,7 +11,7 @@ helloApp.controller("HttpController", [ '$scope', '$resource',
 			//
 			// Query Action Method
 			//
-			var UserProfiles = $resource('/personas');
+			var UserProfiles = $resource('/api/personas');
 			UserProfiles.query(function(profiles){
 				$scope.profiles = profiles;					
 			});
